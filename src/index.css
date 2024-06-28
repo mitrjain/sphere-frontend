@@ -1,13 +1,78 @@
-body {
+
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+} */
 
-code {
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+/* index.css */
+
+/* Global styles */
+/* body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* TransactionList component */
+/* .transaction-list {
+  margin-top: 20px;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.pagination button {
+  margin-right: 10px;
+  cursor: pointer;
+} */
+
+/* TransactionDetails component */
+/* .transaction-details {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.transaction-details h2 {
+  margin-top: 0;
+}
+
+.line-items {
+  margin-bottom: 10px;
+}
+
+.line-items ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.line-items li {
+  margin-bottom: 5px;
+}
+
+.tax-details {
+  font-style: italic;
+} */
+
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
 }
