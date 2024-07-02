@@ -4,14 +4,12 @@ import {
   MDBCardBody,
   MDBCardFooter,
   MDBCardHeader,
-  MDBCol,
   MDBContainer,
   MDBIcon,
   MDBRow,
   MDBTable,
   MDBTableBody,
   MDBTableHead,
-  MDBTypography,
   MDBSwitch,
 } from "mdb-react-ui-kit";
 

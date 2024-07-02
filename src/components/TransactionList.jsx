@@ -2,15 +2,7 @@ import React, { useState } from 'react';
 import TransactionDetails from './TransactionDetails';
 import '../index.css'; // Import CSS file for styling
 import {
-  MDBNavbar,
-  MDBNavbarNav,
-  MDBNavbarItem,
-  MDBNavbarLink,
-  MDBNavbarToggler,
-  MDBContainer,
-  MDBIcon,
   MDBBtn,
-  MDBCollapse
 } from 'mdb-react-ui-kit';
 
 function TransactionList({ transactions }) {
